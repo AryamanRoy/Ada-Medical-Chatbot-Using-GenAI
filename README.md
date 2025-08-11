@@ -92,7 +92,8 @@ Frontend will run at `http://localhost:3000`.
 ---
 
 ## 📂 Project Structure
-'''
+
+```
 project-root/
 ├── backend/
 │   ├── app.py              # FastAPI backend
@@ -104,7 +105,7 @@ project-root/
 │   ├── package.json
 │   └── ...
 └── README.md
-'''
+```
 
 ---
 
