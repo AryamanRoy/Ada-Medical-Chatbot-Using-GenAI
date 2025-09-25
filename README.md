@@ -1,6 +1,6 @@
-# 🩺 MedAssist AI
+# 🩺 Ada
 
-**MedAssist AI** is a modern, full‑screen medical chatbot that provides quick, reliable medical information and assistance through natural, conversational AI.  
+**Ada** is a modern, full‑screen medical chatbot that provides quick, reliable medical information and assistance through natural, conversational AI.  
 Built with a **React frontend** and a **FastAPI backend** powered by **Google Gemini AI**, it supports voice input, image & prescription uploads, and Markdown‑formatted, conversational responses.
 
 ---
